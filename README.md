@@ -1,0 +1,1 @@
+This is where I post anything music-related. Contact me using GitHub Issues if you believe there may be copyright violations or other legal issues regarding this repository.
