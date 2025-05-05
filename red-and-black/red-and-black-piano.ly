@@ -1475,7 +1475,7 @@ endingTwo-lower = \relative b,, {
     <fis' b,>8. q16 r16 <b~ b,_~>16
     |
     q2 r16
-    <d d,>16 b8-. <a fis d>8-. <b~ fis~ b,~>8
+    <d d,>16 b8-. <a fis d>8-. <b~ fis~ b,_~>8
     |
     q2 r2
     \revert Rest.staff-position
